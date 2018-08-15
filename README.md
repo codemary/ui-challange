@@ -1,3 +1,14 @@
+## Solution
+
+1. Using bulma.io css framework
+2. Used the following components: hero and level, i
+3. HTML tags: table, ul
+
+
+
+
+
+
 # ui-challange
 UI code challenge.
 
